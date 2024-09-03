@@ -1,5 +1,4 @@
 // Check if the current URL is math.prodigygame.com
-// yes i know if true is unnecessary but it makes it less laggy for some reason, idk
 if (window.location.hostname === 'math.prodigygame.com') {
     // Create an overlay to cover the screen
     const overlay = document.createElement('div');
