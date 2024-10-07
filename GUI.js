@@ -1,7 +1,7 @@
 //Hacks by rxzyx
 // GUI by me with help by chatgpt
 // Check if the current URL is math.prodigygame.com
-if (window.location.hostname === 'math.prodigygame.com') {
+if (true) {
     // Create an overlay to cover the screen
     const overlay = document.createElement('div');
     overlay.style.position = 'fixed';
